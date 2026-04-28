@@ -82,6 +82,8 @@ Target:
 - Matplotlib / Seaborn  
 
 ---
+<img width="1280" height="721" alt="dashboard" src="https://github.com/user-attachments/assets/d0c80f98-efeb-443e-af47-ec9ae1426a75" />
+
 
 ## 👤 Author
 Bharat Lalwani
